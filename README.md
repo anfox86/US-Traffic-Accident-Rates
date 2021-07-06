@@ -1,5 +1,5 @@
-# Predicting-the-US-State-with-Highest-Traffic-Accident-Rate
-This repository contains all of the work completed for the Predicting the US State with the Most Traffic Accidents. 
+# Accident Rate and Severity - US Traffic Accident Rates
+This repository contains all of the work completed for the Accident Rate and Severity - US Traffic Accident Rates project. 
 
 Data set can be found on Kaggle - https://www.kaggle.com/sobhanmoosavi/us-accidents
 
